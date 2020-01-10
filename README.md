@@ -24,3 +24,8 @@ In Progress
       A "truthy" value will satisfy the check performed by if or while statements. We use "truthy" and "falsy"    to differentiate from the bool values True and False.
 
 2) Where as in JS, All values are truthy unless they are defined as falsy (i.e., except for __false, 0, 0n, "", null, undefined, and NaN__)
+3) remove white spaces -> Python - strip(), JS - trim()
+4) comments -> Python - # """ """, JS - // /* */
+5) touppercase -> Python - upper(), JS - toUpperCase()
+6) type check -> Python - type(), JS - typeof 
+7) instance check -> Python - isinstance(2 params), JS - instaceof()
