@@ -29,4 +29,4 @@ In Progress
 5) touppercase -> Python - upper(), JS - toUpperCase()
 6) type check -> Python - type(), JS - typeof 
 7) instance check -> Python - isinstance(2 params), JS - instaceof()
-8) var a = [], Python - a[1] = 1 - Error list index out of range, JS - a[1] = 1 - a = [empty, 1]
+8) var a = [], Python: a[1] = 1 -> Error list index out of range, JS: a[1] = 1 -> a = [empty, 1]
